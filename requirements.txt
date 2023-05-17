@@ -1,0 +1,17 @@
+flask
+logging
+math
+scipy.io
+music21
+wavfile
+pydub
+crepe
+AudioSegment
+collections
+defaultdict
+mido
+MidiFile
+pydub.generators
+Sine
+send_file
+Flask
